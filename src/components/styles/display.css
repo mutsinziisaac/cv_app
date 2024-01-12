@@ -1,0 +1,25 @@
+.displayContents {
+  display: block;
+}
+.name {
+  font-weight: bolder;
+  text-align: center;
+}
+.address {
+  display: flex;
+  justify-content: center;
+}
+.address p {
+  padding: 10px;
+}
+.displayContents h2 {
+  border-bottom: 2px solid black;
+}
+.education {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 49px;
+}
+.school {
+  display: flex;
+}

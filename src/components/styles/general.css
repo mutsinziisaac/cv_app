@@ -1,0 +1,25 @@
+#general {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  background-color: white;
+  border-radius: 5px;
+  padding: 19px;
+  margin-bottom: 40px;
+}
+.saveBtn {
+  width: 100px;
+  height: 30px;
+  align-self: flex-end;
+  background-color: rgb(197, 144, 197);
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.input {
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background-color: rgb(221, 221, 227);
+}

@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  background-color: rgb(221, 221, 227);
+}
+#root {
+  font-family: "Roboto", sans-serif;
+}

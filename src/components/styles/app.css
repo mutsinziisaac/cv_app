@@ -1,0 +1,18 @@
+.components {
+  display: flex;
+  margin: 20px;
+}
+
+.userComponents {
+  margin-right: 40px;
+}
+.display {
+  display: block;
+  width: 45vw;
+  background-color: white;
+  height: 100vh;
+  border-radius: 5px;
+  padding: 100px;
+  position: fixed;
+  right: 0;
+}
